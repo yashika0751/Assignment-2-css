@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    font-size: 1.8em;
+    background-image: url(../images/4025330.jpg);
+    background-size: cover;
+    justify-content: center;
+    color: #fc46aa;
+}
+#nav{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+li{
+    margin-left: 20%;
+}
+img{
+    height: 350px;
+    width: auto;
+}
+h1,h2{
+    font-family: 'Dela Gothic One', sans-serif;
+}
+.lyrics{
+    padding: 0% 20% 0% 20%;
+}
+.ex{
+    font-family: 'Bebas Neue',sans-serif;
+}
+.ex1{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.ex2{
+    font-family: 'caveat',sans-serif;
+}
+.ex3{
+    font-family: 'Shadows into light',sans-serif;
+}
